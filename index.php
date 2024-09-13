@@ -7,4 +7,4 @@ echo"$s";
 
 echo "<div style='width: $d  ; height: $d ; background: blue; border-radius: 50%;'></div>";
 
-?>;
+?>
