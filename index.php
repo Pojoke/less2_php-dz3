@@ -5,6 +5,6 @@ $s= p*$r;
 $d = $r*2 ;
 echo"$s";
 
-echo "<div style='width: $d  ; height: $d ; background: blue; border-radius: 50%;'></div>";
+echo "<div style='width: $d"."px; height: $d"."px; background: blue; border-radius: 50%;'></div>";
 
 ?>
